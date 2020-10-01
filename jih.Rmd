@@ -4,6 +4,7 @@ subtitle: Reproduserbarhet
 author: "Sofie Brynjelsen, Silje Marie Danielsen"
 bibliography: new-paper.bib
 csl: apa-no-ampersand.csl
+lang: nb-NO
 output:
   html_document:
     df_print: paged
